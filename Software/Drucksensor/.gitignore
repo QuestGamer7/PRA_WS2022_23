@@ -1,0 +1,14 @@
+### .Gitignore for Software Repositories ###
+
+# Build folders
+Debug/
+Release/
+
+# Settings
+.settings/
+
+# Backup
+*/Backup
+
+# Configurations
+*.launch
